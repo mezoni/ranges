@@ -1,0 +1,7 @@
+name: ranges
+version: 0.0.1
+author: Andrew Mezoni <andrew.mezoni@gmail.com>
+description: Collection of the `range` implementations. Contains the `RangeList` and `InfiniteRange`.
+homepage: https://github.com/mezoni/ranges
+dependencies:
+  lists: any
